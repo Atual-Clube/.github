@@ -1,4 +1,4 @@
-# 👋 Bem-vindo à Atual Clube
+## 👋 Bem-vindo à Atual Clube
 
 A **Atual Clube de Benefícios e Proteção Mutualista** nasceu em 2016, na Zona Oeste do Rio de Janeiro, com o propósito de tornar a proteção veicular mais acessível, eficiente e próxima das pessoas.
 
@@ -8,15 +8,15 @@ Hoje, seguimos expandindo nossa atuação e investindo continuamente em pessoas,
 
 ---
 
-## 🚗 Sobre a Atual Clube
+### 🚗 Sobre a Atual Clube
 
 Nossa história é marcada por crescimento responsável, proximidade com os associados e busca constante por evolução.
 
-Desde a nossa fundação, ampliamos nossa presença, estrutura e rede de atendimento, sempre com o objetivo de oferecer soluções confiáveis e um atendimento próximo e humano.
+Desde a nossa fundação, ampliamos nossa presença, estrutura e rede de atendimento, sempre com o objetivo de oferecer proteção confiável e um atendimento próximo e humano.
 
 ---
 
-## 💡 Tecnologia e Inovação
+### 💡 Tecnologia e Inovação
 
 A tecnologia faz parte da evolução da Atual Clube.
 
@@ -26,7 +26,7 @@ Buscamos transformar necessidades reais em soluções digitais simples, eficient
 
 ---
 
-## 🧡 Nossos valores
+### 🧡 Nossos valores
 
 - **Integridade** — ética, transparência e responsabilidade em nossas relações.
 - **Colaboração** — valorizamos o trabalho em equipe e o sucesso coletivo.
@@ -35,7 +35,7 @@ Buscamos transformar necessidades reais em soluções digitais simples, eficient
 
 ---
 
-## 🌐 Conheça a Atual Clube
+### 🌐 Conheça a Atual Clube
 
 Acompanhe nossos canais oficiais e saiba mais sobre nossa história, serviços e iniciativas.
 
